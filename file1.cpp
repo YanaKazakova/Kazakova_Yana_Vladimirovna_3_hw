@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    std::cout<<"Hello, world!";
+    std::cout<<"Comment was added";
     return 0;
 }
